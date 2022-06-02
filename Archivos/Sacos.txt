@@ -1,0 +1,13 @@
+Saco,La Martina,260000,6
+Saco,Diadora,80000,3
+Saco,Puma,200000,5
+Saco,Starter,70000,4
+Saco,Smiley,99000,2
+Saco,Mossimo,76000,7
+Saco,Shingueki,180000,1
+Saco,Denimlab,85000,8
+Saco,GAP,65000,13
+Saco,Ecko,120000,9
+Saco,Cascais,87000,10
+Saco,MNG,55000,3
+Saco,Tommy Hillfiger,300000,2

@@ -1,0 +1,13 @@
+Zapato,Aldo,140000,5
+Zapato,Newboat,80000,3
+Zapato,Basement,90000,1
+Zapato,Monserrate,15000,8
+Zapato,Clarks,75000,6
+Zapato,Croydon,55000,4
+Zapato,Sperry,35000,2
+Zapato,Idecal,65000,7
+Zapato,Sollu,77000,9
+Zapato,Wolker,53000,13
+Zapato,Versilia,123000,11
+Zapato,Adidas,111000,4
+Zapato,Reebok,98000,10

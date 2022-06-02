@@ -1,0 +1,13 @@
+Pantalon,Oggi,20000,3
+Pantalon,Bearcliff,60000,2
+Pantalon,Fila,100000,5
+Pantalon,Ecko,55000,8
+Pantalon,Kappa,70000,6
+Pantalon,Gap,125000,9
+Pantalon,Mossimo,42000,4
+Pantalon,Ilot,30000,10
+Pantalon,Champion,65000,5
+Pantalon,Smiley,60000,7
+Pantalon,Zoo York,85000,1
+Pantalon,Christian Lacroix,120000,2
+Pantalon,Everlast,170000,11
